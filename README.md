@@ -8,3 +8,9 @@ Penambahan fitur di versi 1.1:
 - Phone
 - New Background
 - Detail Kost
+
+
+Penambahan fitur di versi 1.2:
+
+- New Kost Available
+- Fixing bug
