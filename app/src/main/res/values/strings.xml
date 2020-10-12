@@ -3,4 +3,6 @@
     <string name="title_activity_maps">Map</string>
     <string name="title_activity_maps2">Map</string>
     <string name="title_activity_maps3">Map</string>
+    <string name="title_activity_maps_kost">Map</string>
+    <string name="title_activity_kost_an_nur">Map</string>
 </resources>

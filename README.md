@@ -14,3 +14,9 @@ Penambahan fitur di versi 1.2:
 
 - New Kost Available
 - Fixing bug
+
+
+Penambahan fitur di versi 1.3:
+
+- New icon for phone and maps
+- Bug fix
