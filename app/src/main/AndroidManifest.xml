@@ -32,8 +32,23 @@
             android:value="@string/google_maps_key" />
 
         <activity
+            android:name=".KostAna"
+            android:label="@string/title_activity_kost_ana"></activity>
+        <activity
+            android:name=".KostYosheray"
+            android:label="@string/title_activity_kost_yosheray" />
+        <activity
+            android:name=".KostUngu"
+            android:label="@string/title_activity_kost_ungu" />
+        <activity
+            android:name=".WismaAnggrek"
+            android:label="@string/title_activity_wisma_anggrek" />
+        <activity
+            android:name=".WismaErbyta"
+            android:label="@string/title_activity_wisma_erbyta" />
+        <activity
             android:name=".KostAnNur"
-            android:label="@string/title_activity_kost_an_nur"></activity>
+            android:label="@string/title_activity_kost_an_nur" />
         <activity
             android:name=".KostBarbie"
             android:label="@string/title_activity_maps_kost" />

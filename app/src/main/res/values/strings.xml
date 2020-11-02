@@ -5,4 +5,34 @@
     <string name="title_activity_maps3">Map</string>
     <string name="title_activity_maps_kost">Map</string>
     <string name="title_activity_kost_an_nur">Map</string>
+
+    // ALAMAT KOST
+    <string name="kost_wisma_erbyta">Alamat: Perumahan Damkar Kavling GM Blok F1 No. 9, Kotabumi, Grogol, Kotabumi, Kec. Purwakarta, Kota Cilegon
+        \nBiaya: Rp. 850.000
+        \nPemilik: Sintia</string>
+
+    <string name="alamat_wisma_anggrek">Alamat: Blok A1, Jl. Arga Kawi No.2, Kotasari, Kec. Gerogol, Kota Cilegon, Banten 42436
+        \nBiaya: Rp. 700.000
+        \nPemilik: Haerul</string>
+
+    <string name="ana_kost">Alamat: Jl. Al Fatah Blok No., Jl. Al Fatah Blok E No.7, Cipocok Jaya, Kec. Cipocok Jaya, Kota Serang
+        \n
+        \nBiaya: Rp. 500.000
+        \nPemilik: Ibu Ana</string>
+
+    <string name="kost_yosheray">Alamat:  Jl. Ciwaru 1, Sumurpecung, Kec. Serang, Kota Serang
+        \n
+        \nBiaya: Rp. 550.000
+        \nPemilik: Mang Oleh</string>
+
+    <string name="kost_ungu">Alamat: Cipocok Jaya, Kec. Cipocok Jaya, Kota Serang
+        \n
+        \nBiaya: Rp. 450.000
+        \nPemilik: Bapak Megatron</string>
+
+    <string name="title_activity_wisma_erbyta">Map</string>
+    <string name="title_activity_wisma_anggrek">Map</string>
+    <string name="title_activity_kost_ungu">Map</string>
+    <string name="title_activity_kost_yosheray">Map</string>
+    <string name="title_activity_kost_ana">Map</string>
 </resources>

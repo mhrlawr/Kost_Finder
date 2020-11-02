@@ -9,14 +9,15 @@ Penambahan fitur di versi 1.1:
 - New Background
 - Detail Kost
 
-
 Penambahan fitur di versi 1.2:
 
 - New Kost Available
 - Fixing bug
 
-
 Penambahan fitur di versi 1.3:
 
 - New icon for phone and maps
 - Bug fix
+
+Penambahan fitur di versi 1.4:
+- Add new kost on Kampus C
