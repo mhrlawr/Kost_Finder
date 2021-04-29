@@ -57,7 +57,7 @@ private ImageButton imageButton6, imageButton8;
         startActivity(imageButton5);
     }
     public void imagebutton7(View view){
-        String nomor4 = "0858695580";
+        String nomor4 = "085869222";
         Intent imageButton7 = new Intent(Intent. ACTION_DIAL);
         imageButton7.setData(Uri.fromParts("tel",nomor4,null));
         startActivity(imageButton7);
