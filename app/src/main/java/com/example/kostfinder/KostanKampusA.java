@@ -51,13 +51,13 @@ private ImageButton imageButton2, imageButton4;
 
     // BUAT TOMBOL TELEPON
     public void imageButton1(View view) {
-        String nomor1 = "081231959798";
+        String nomor1 = "081231959969";
         Intent imageButton1 = new Intent(Intent.ACTION_DIAL);
         imageButton1.setData(Uri.fromParts("tel", nomor1, null));
         startActivity(imageButton1);
     }
      public void imagebutton3(View view){
-        String nomor2 = "085156709331";
+        String nomor2 = "085156708897";
         Intent imageButton3 = new Intent(Intent. ACTION_DIAL);
         imageButton3.setData(Uri.fromParts("tel",nomor2,null));
         startActivity(imageButton3);
