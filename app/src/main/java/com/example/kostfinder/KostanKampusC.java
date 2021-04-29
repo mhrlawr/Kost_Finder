@@ -65,13 +65,13 @@ public class KostanKampusC extends AppCompatActivity {
             startActivity(imageButton1);
         }
         public void imagebutton3 (View view){
-            String nomor2 = "085869801231";
+            String nomor2 = "085869801232";
             Intent imageButton3 = new Intent(Intent.ACTION_DIAL);
             imageButton3.setData(Uri.fromParts("tel", nomor2, null));
             startActivity(imageButton3);
         }
         public void imagebutton5 (View view){
-            String nomor3 = "081288992231";
+            String nomor3 = "081288991212";
             Intent imageButton5 = new Intent(Intent.ACTION_DIAL);
             imageButton5.setData(Uri.fromParts("tel", nomor3, null));
             startActivity(imageButton5);
