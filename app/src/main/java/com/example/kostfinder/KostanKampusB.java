@@ -20,7 +20,7 @@ private ImageButton imageButton6, imageButton8;
         setContentView(R.layout.kampus_b);
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
-        // BUAT TOMBOL MAPS
+        // BUAT TOMBOL MAPS ADSADA
         ImageButton imageButton6 = (ImageButton) findViewById(R.id.imageButton6);
         imageButton6.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -38,7 +38,7 @@ private ImageButton imageButton6, imageButton8;
             }
         });
 
-        // BUAT TOMBOL BACK
+        // BUAT TOMBOL BACK ASDASDAS
         button9 = (Button) findViewById(R.id.button9);
         button9.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -51,13 +51,13 @@ private ImageButton imageButton6, imageButton8;
 
     // BUAT TOMBOL TELEPON
     public void imageButton5(View view) {
-        String nomor3 = "08123235884";
+        String nomor3 = "01212121884";
         Intent imageButton5 = new Intent(Intent.ACTION_DIAL);
         imageButton5.setData(Uri.fromParts("tel", nomor3, null));
         startActivity(imageButton5);
     }
     public void imagebutton7(View view){
-        String nomor4 = "085869222";
+        String nomor4 = "0243432222";
         Intent imageButton7 = new Intent(Intent. ACTION_DIAL);
         imageButton7.setData(Uri.fromParts("tel",nomor4,null));
         startActivity(imageButton7);
